@@ -1,0 +1,14 @@
+venv/
+.idea/
+build/
+dist/
+.coverage
+__pycache__/
+*.pyc
+build/*
+pyroprompts_client.egg-info/
+pyropromptsclient.egg-info/
+my_env/
+build.sh
+deploy.sh
+.notes
